@@ -24,4 +24,8 @@ Here's the solution of the DSC UEMK Competitive Programming Contest, organised b
 - Python
 - CPP
 
+[![forthebadge made-with-cpp](http://ForTheBadge.com/images/badges/made-with-c.svg)](https://www.python.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 # abhisheks008
