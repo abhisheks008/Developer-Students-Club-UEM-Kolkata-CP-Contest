@@ -1,6 +1,11 @@
 # Developer-Students-Club-UEM-Kolkata-CP-Contest
 Here's the solution of the DSC UEMK Competitive Programming Contest, organised by DSC UEMK on 7th November to 8th November, 2020
 
+### Connect with us via LinkedIn <a href="https://www.linkedin.com/company/dsc-uemk/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+
 ### The contest is hosted at HackerRank Platform
 #### Link for the contest : `https://www.hackerrank.com/contests/dscuemk-cp-contest`
 
