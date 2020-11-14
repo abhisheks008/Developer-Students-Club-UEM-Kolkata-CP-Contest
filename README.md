@@ -17,7 +17,7 @@ Here's the solution of the DSC UEMK Competitive Programming Contest, organised b
 |1.|<a href = "https://github.com/abhisheks008/Developer-Students-Club-UEM-Kolkata-CP-Contest/blob/main/Extra%20long%20factorials.py">Extra Long Factorials</a> | Medium | 50| **SOLVED** | Python 3 |
 |2. | <a href = "https://github.com/abhisheks008/Developer-Students-Club-UEM-Kolkata-CP-Contest/blob/main/Pairs.py">Pairs</a> | Medium | 50 | **SOLVED** | Python 3|
 |3. | <a href = "https://github.com/abhisheks008/Developer-Students-Club-UEM-Kolkata-CP-Contest/blob/main/Game%20of%20Thrones%20I.cpp">Game of Thrones I</a> | Easy | 50 | **SOLVED** | CPP |
-|4.|<a href = "https://github.com/abhisheks008/Developer-Students-Club-UEM-Kolkata-CP-Contest/blob/main/LCS%20Returns.cpp>LCS Returns</a>|Medium|100|**SOLVED**| CPP |
+|4.|<a href = "https://github.com/abhisheks008/Developer-Students-Club-UEM-Kolkata-CP-Contest/blob/main/LCS%20Returns.cpp">LCS Returns</a>|Medium|100|**SOLVED**| CPP |
 |5.|Equal Stacks|Easy|50|**SOLVED**| Python 2 |
 
 ### Languages Used :
